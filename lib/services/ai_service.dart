@@ -31,7 +31,7 @@ class ChatMessage {
 
 class SanjeevikaAIService {
   // 🔑 REPLACE WITH YOUR ACTUAL API KEY
-  static const String _apiKey = "AIzaSyDDOrqVUUZk_Q6HzfY3seO6fmerI5Wpbls";
+  static const String _apiKey = "AIzaSyDXlZmJ67TblyBLlXIn6DSrj-gH80ThiOg";
   static const String _baseUrl =
       "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent";
 
